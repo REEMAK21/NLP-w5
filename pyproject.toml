@@ -9,6 +9,8 @@ dependencies = [
     "jupyter-collaboration>=4.2.0",
     "jupyter-mcp-tools>=0.1.4",
     "jupyterlab>=4.5.1",
+    "pandas>=2.3.3",
+    "seaborn>=0.13.2",
 ]
 
 [tool.uv.workspace]
